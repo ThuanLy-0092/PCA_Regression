@@ -36,6 +36,8 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 2. Interpret principal components and their corresponding eigenvectors to understand the underlying data structure.
 3. Discuss trade-offs observed between dimensionality reduction and model performance.
 
+### Score: [9/10-Lab03](https://docs.google.com/spreadsheets/d/1Eyv9f2xt2KyV3tpZZkzaBGWBdh9G-MlkOtEU6jMgHG4/edit?fbclid=IwY2xjawEkasNleHRuA2FlbQIxMQABHRsvyHOase_5EOc_y7wB3DvfSQzDZ-n5Y1KsswlazYciQsutFr81pHz1eg_aem_frzFTYRdAeKNGmSDZD0DHw&gid=0#gid=0)
+
 ### Report and Conclusion
 
 1. Prepare a concise report summarizing findings, methodology, and insights gained from the assignment.
